@@ -1,6 +1,6 @@
 import Head from "next/head"
 import Link from "next/link"
-import useSWR from 'SWR'
+import useSWR from 'swr'
 
 import Header from './components/header'
 import Content from './components/content'
